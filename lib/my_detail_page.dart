@@ -6,6 +6,8 @@ import 'package:get/get.dart';
 
 import 'content_page.dart';
 import 'my_home_page.dart';
+
+
 class DetailPage extends StatefulWidget {
   const DetailPage({Key? key}) : super(key: key);
 
